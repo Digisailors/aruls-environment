@@ -1571,16 +1571,16 @@ textarea {
 }
 
 .tparrows:before {
-    font-family: 'icomoon';
+    font-family: 'FontAwesome';
     line-height: 60px;
 }
 
 .tparrows.tp-leftarrow:before {
-    content: "\e926";
+    content: "\f060";
 }
 
 .tparrows.tp-rightarrow:before {
-    content: "\e927";
+    content: "\f061";
 }
 
 /*** 
