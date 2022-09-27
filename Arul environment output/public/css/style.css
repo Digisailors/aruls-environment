@@ -1576,22 +1576,13 @@ textarea {
 }
 
 .tparrows.tp-leftarrow:before {
-    
     content: "\f060";
 }
 
 .tparrows.tp-rightarrow:before {
     content: "\f061";
 }
-.right {
-    transform: rotate(-45deg);
-    -webkit-transform: rotate(-45deg);
-  }
-  
-  .left {
-    transform: rotate(135deg);
-    -webkit-transform: rotate(135deg);
-  }
+
 /*** 
 
 ====================================================================
