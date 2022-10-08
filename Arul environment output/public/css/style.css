@@ -94,6 +94,7 @@ p {
     color: #999;
     line-height: 26px;
     font-weight: 400;
+    text-transform: lowercase;
 }
 
 a {
